@@ -3,7 +3,6 @@
 List of algorithm based on [freeCodeCamp.org](https://www.freecodecamp.org/) exercises.
 
 ### Basic algorithm scripting
-- Get Set for our Algorithm Challenges
 - Reverse a String
 - Factorialize a Number
 - Check for Palindromes
