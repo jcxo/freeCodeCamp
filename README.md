@@ -1,8 +1,8 @@
-# freeCodeCamp
+# freeCodeCamp – Algorithm Scripting
 
 List of algorithm based on [freeCodeCamp.org](https://www.freecodecamp.org/) exercises.
 
-### Basic algorithm scripting
+## Basic
 - Reverse a String
 - Factorialize a Number
 - Check for Palindromes
@@ -20,7 +20,7 @@ List of algorithm based on [freeCodeCamp.org](https://www.freecodecamp.org/) exe
 - Where do I belong
 - Caesars Cipher
 
-### Intermediate algorithm scripting
+## Intermediate
 - Sum All Numbers in a Range
 - Diff Two Arrays
 - Roman Numeral Converter
@@ -43,7 +43,7 @@ List of algorithm based on [freeCodeCamp.org](https://www.freecodecamp.org/) exe
 - Everything Be True
 - Arguments Optional
 
-### Advanced algorithm scripting
+## Advanced
 - Validate US Telephone Numbers
 - Record Collection
 - Symmetric Difference
